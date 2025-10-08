@@ -1,0 +1,25 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
+  "title": "yyabcd",
+  "name": "yy",
+  "ascii": "yyabcd",
+  "social": {
+    "github": "sch01ar"
+  },
+  "email": "1529589946@qq.com",
+  "ps1_hostname": "yyabcd",
+  "ps1_username": "guest",
+  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "blog_url": "https://sch01ar.github.io/",
+  "colors": {
+    "light": {
+      "background": "#2C3E50",
+      "foreground": "#E0E0E0",
+      "yellow": "#F1C40F",
+      "green": "#9B59B6",
+      "gray": "#3498DB",
+      "blue": "#1ABC9C",
+      "red": "#2ECC71"
+    }
+  }
+}
